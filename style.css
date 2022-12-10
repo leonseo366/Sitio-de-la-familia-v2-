@@ -1,0 +1,22 @@
+.body_backgorund {
+    background-image: url("bg1.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  body{
+    cursor: pointer;
+  }
+  h1
+  {
+      color: red; 
+      font-size: 40px;
+  }
+  h2
+  {
+      color: blue; 
+      font-size: 40px;
+  }
+  h3
+  {
+      font-size: 40px;
+  }
